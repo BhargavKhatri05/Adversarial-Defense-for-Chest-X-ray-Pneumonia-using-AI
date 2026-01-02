@@ -1,0 +1,13 @@
+You can Download or use datasets via cloude with API keys Follow this link
+
+Chest X-Ray Images (Pneumonia)
+
+    Used for: The Specialist Model (Pneumonia detection) & Gatekeeper (Lung class).
+
+    Link: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+Bone Break Classification
+
+    Used for: The Gatekeeper Model (Negative class to reject hands/bones).
+
+    Link: https://www.kaggle.com/datasets/tawsifurrahman/bone-break-classification
